@@ -1,0 +1,1 @@
+[{"id":0,"timesTamp":1650590102921,"productos":[{"nombre":"gabinete","descripcion":"excelente","codigo":"123456","foto":"url","precio":"22350","stock":"14","timesTamp":1650590186747,"id":0}]}]
